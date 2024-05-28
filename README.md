@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=fo
 ## My Skills 🚀 
 <h3>👨‍💻Languages & Framework: </h3>
 
- ![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,bootstrap,css,html,nodejs,express,mongodb,md,java)
+ ![My Skills](https://skillicons.dev/icons?i=js,react,django,python,redux,tailwind,bootstrap,css,html,nodejs,express,mongodb,md,java)
  <br/>
  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

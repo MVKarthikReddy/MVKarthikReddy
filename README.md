@@ -15,9 +15,7 @@
 - 📫 How to reach me **karthikmedagam@gmail.com**
 - ⛰️ 2024 Goal Explore **MERN Stack in-depth and Learn AWS**
 
-<a href="https://www.twitter.com/gautamkp078" target="_blank"><img
-src="https://img.shields.io/twitter/follow/gautamkp078?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/MVKarthikReddy" target="_blank"><img
+<a href="https://www.github.com/MVKarthikReddy" target="_blank"><img
 src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <h2 align="left">Connect with me:</h2>

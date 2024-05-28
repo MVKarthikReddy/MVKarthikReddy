@@ -29,10 +29,8 @@ src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=fo
 
  ![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,bootstrap,materialui,css,html,nodejs,express,mongodb,md,cpp,py&perline=8)
  <br/>
- ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
    ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
  
@@ -40,7 +38,7 @@ src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=fo
  
  <h3>⚒️Tools:</h3>
  
-  ![My Skills](https://skillicons.dev/icons?i=git,github,firebase,vercel,vite,vscode,heroku,figma)
+  ![My Skills](https://skillicons.dev/icons?i=git,github,firebase,vercel,vite,vscode)
  
  <!-- ![My Skills](https://skillicons.dev/icons?i=py,git,github,cpp,css,express,firebase,git,github,html,js,linux,md,nodejs,react,redux,django,tailwind,ts,vercel,vscode,mongodb,bootstrap,)  -->
 

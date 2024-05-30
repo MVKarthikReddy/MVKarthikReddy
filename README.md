@@ -35,7 +35,7 @@ src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=fo
  
  <h3>⚒️Tools:</h3>
  
-  ![My Skills](https://skillicons.dev/icons?i=github,firebase,vercel,netlify,vite,vscode)
+  ![My Skills](https://skillicons.dev/icons?i=github,firebase,vercel,netlify,vscode)
  
  <!-- ![My Skills](https://skillicons.dev/icons?i=py,git,github,cpp,css,express,firebase,git,github,html,js,linux,md,nodejs,react,redux,django,tailwind,ts,vercel,vscode,mongodb,bootstrap,)  -->
 

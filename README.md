@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=fo
 
 ![](https://github-readme-stats.vercel.app/api?username=MVKarthikReddy&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MVKarthikReddy&theme=react&hide_border=false)|
+![](https://github-readme-streak-stats.herokuapp.com/?user=MVKarthikReddy&theme=react&hide_border=false)
 ![](https://activity-graph.herokuapp.com/graph?username=MVKarthikReddy&theme=redical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MVKarthikReddy&layout=compact&theme=tokyonight&langs_count=10)
@@ -57,7 +57,7 @@ src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=fo
 
 
 
-[![Karthik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MVKarthikReddy&custom_title=My%20Github%20stats&bg_color=000000&color=dcdcdc&line=21abcd&point=555555&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Karthik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MVKarthikReddy&custom_title=My%20Github%20stats&bg_color=555555&color=dcdcdc&line=21abcd&point=555555&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
  

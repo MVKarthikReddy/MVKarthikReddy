@@ -54,8 +54,7 @@ src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=fo
  |![](https://github-readme-stats.vercel.app/api/top-langs/?username=MVKarthikReddy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)| ![](https://github-readme-streak-stats.herokuapp.com/?user=MVKarthikReddy&theme=react&hide_border=false)|
 |-|-|
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MVKarthikReddy&theme=default)
-
+[![Karthik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MVKarthikReddy&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
  

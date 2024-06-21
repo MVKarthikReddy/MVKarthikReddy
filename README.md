@@ -55,7 +55,9 @@ src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=fo
 |-|-|
 
  
- 
+ ## Contributions
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MVKarthikReddy&theme=default)
+
  
 
  

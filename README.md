@@ -57,7 +57,7 @@ src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=fo
 
 
 
-[![Karthik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MVKarthikReddy&custom_title=My%20Github%20stats&bg_color=334A4F&color=dcdcdc&line=21abcd&point=555555&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Karthik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MVKarthikReddy&custom_title=My%20Github%20stats&bg_color=1C2426&color=dcdcdc&line=21abcd&point=555555&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
  

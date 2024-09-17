@@ -37,23 +37,10 @@ src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=fo
  
   ![My Skills](https://skillicons.dev/icons?i=github,firebase,vercel,netlify,vscode)
  
- <!-- ![My Skills](https://skillicons.dev/icons?i=py,git,github,cpp,css,express,firebase,git,github,html,js,linux,md,nodejs,react,redux,django,tailwind,ts,vercel,vscode,mongodb,bootstrap,)  -->
 
 
 
  
-
-## Github Activity📊:
-
-![](https://github-readme-stats.vercel.app/api?username=MVKarthikReddy&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=MVKarthikReddy&theme=react&hide_border=false)
-![](https://activity-graph.herokuapp.com/graph?username=MVKarthikReddy&theme=redical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MVKarthikReddy&layout=compact&theme=tokyonight&langs_count=10)
- 
-
-
 
 
 

@@ -9,11 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MVKarthikReddy&label=Profile%20views&color=0e75b6&style=flat" alt="Karthik Reddy" /> </p>
 
 - 🔭 I’m currently working on React Js and Node Js
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **BID DATA**
 - 👯 I’m looking to collaborate on Web Development Project
 - 💬 Ask me about Web Development
 - 📫 How to reach me **karthikmedagam@gmail.com**
-- ⛰️ 2024 Goal Explore **MERN Stack in-depth and Learn AWS**
+- ⛰️ 2025 Goal Explore **BIG DATA TOOLS**
 
 <a href="https://www.github.com/MVKarthikReddy" target="_blank"><img
 src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
